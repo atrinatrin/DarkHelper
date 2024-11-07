@@ -1,5 +1,5 @@
 import sys
-sys.path.insert(1, r'C:\Users\ASUS\Desktop\sources\Telegram\werewolf\Darkhelper\2\V2')
+sys.path.insert(1, r'/path/to/directory')
 from Databases.Users import AdminsBase
 from Databases.Stats import AdminStatsBase
 class Admin :
