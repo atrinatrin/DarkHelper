@@ -1,6 +1,6 @@
 import sqlite3 as db 
 import sys
-sys.path.insert(1, r'C:\Users\ASUS\Desktop\sources\Telegram\werewolf\Darkhelper\2\V2')
+sys.path.insert(1, r'/path/to/directory')
 from Config.Info.Supports import path
 def start():
     con = db.connect(f"{path}DarkHelper-Group.db"  ,check_same_thread = False)
