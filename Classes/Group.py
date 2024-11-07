@@ -1,6 +1,6 @@
 from datetime import  datetime
 import sys
-sys.path.insert(1, r'C:\Users\ASUS\Desktop\sources\Telegram\werewolf\Darkhelper\2\V2\Databases')
+sys.path.insert(1, r'/path/to/directory')
 from Databases.Groups import GroupsPlayersBase , GroupsBase , GroupsControlBase 
 from Databases.Groups.Bet import BetBase
 from Databases.Users import AdminsBase 
