@@ -1,7 +1,7 @@
 import sys , os
 from deep_translator import GoogleTranslator
 from pyrogram.types import ChatPermissions
-sys.path.insert(1, r'C:\Users\ASUS\Desktop\sources\Telegram\werewolf\Darkhelper\V2')
+sys.path.insert(1, r'/path/to/directory')
 from Databases.Groups.Message import MessageBase
 from Databases.Groups import GroupsBase
 from Config.Texts.NFSW import NFSW
