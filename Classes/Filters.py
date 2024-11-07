@@ -1,6 +1,6 @@
 from pyrogram.filters import create , user , regex
 import sys
-sys.path.insert(1, r'C:\Users\ASUS\Desktop\sources\Telegram\werewolf\Darkhelper\V2')
+sys.path.insert(1, r'/path/to/directory')
 from Functions.Filters.Filter_func import Wrapper , Wrapper2 , Wrapper3 , Wrapper4 , Wrapper5
 from Classes.Group import Group
 from Config.Info.bot.partner_bot import bot_id
