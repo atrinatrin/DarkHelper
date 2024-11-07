@@ -1,6 +1,6 @@
 import sys 
 from random import choice
-sys.path.insert(2, r'C:\Users\ASUS\Desktop\sources\Telegram\werewolf\Darkhelper\V2') 
+sys.path.insert(2, r'/path/to/directory') 
 from Databases.Groups.Message.SpamBase import Set_Zero_All_Message_Spams
 from Databases.Users.AfksBase import Set_All_AFK_Zero
 from Databases.Stats import UsersRanksBase , GroupStatsBase
