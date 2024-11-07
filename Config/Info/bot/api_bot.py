@@ -1,8 +1,8 @@
 #--------------------------------------------------------------------------|Variebels For Api
-api_id =5015063                                                          #-|
-api_hash = '729213381bf743aec50971fa07a62264'                            #-|
+api_id =11057906                                                          #-|
+api_hash = 'b7f975dcdf30c826b3e6178ff3f72356'                            #-|
 bot_id= 1658760514                                                       #-|
-bot_username='@Darkhelperrobot'#@darkhelperrobot'                        #-|
+bot_username='@managemntapuBot'#@darkhelperrobot'                        #-|
 #--------------------------------------------------------------------------| » Creating Client & Import Pyrogram
 from pyrogram import Client                                              #-|                          
 bot = Client('amirairj-helper', api_id, api_hash                         #-|  
