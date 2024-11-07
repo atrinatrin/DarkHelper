@@ -1,5 +1,5 @@
 import sys
-sys.path.insert(1, r'C:\Users\ASUS\Desktop\sources\Telegram\werewolf\Darkhelper\V2')
+sys.path.insert(1, r'/path/to/directory')
 from Databases.Users import UsersBase , ShekarsBase , AfksBase
 from Functions.Requests.Player_State import  *
 from Functions.Pointing.Convert_Emojies import Emoji
